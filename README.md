@@ -45,7 +45,7 @@ The user can then click the delete icon next to the note to get rid of the note
 
 Repository Link: https://github.com/CullenKnott/i-dont-study
 
-deployment Link: 
+deployment Link: https://i-dont-study-02e1a4235102.herokuapp.com/
 
 ## License
 
